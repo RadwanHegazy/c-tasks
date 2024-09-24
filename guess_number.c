@@ -31,7 +31,8 @@ void main (){
         else if (user_input < generated_number) {
             printf("\nGenerated number is Hight !\n");      
         }
-    
+        
+
 
 
     }
